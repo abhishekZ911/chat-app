@@ -1,3 +1,11 @@
+This is a chat app that shows the chats in a beautiful ui as given by CoRider assessment document for internship.
+
+The deployed link for the chat app is : https://corider-chatapp-by-abhishek-keshri.netlify.app/
+
+I am very grateful to Niladri Sir from CoRider for giving me this opportunity. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
